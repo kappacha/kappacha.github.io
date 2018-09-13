@@ -13,7 +13,7 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-$size-header-width: 35%;
+$size-header-width: 28%;
 $size-header-pad: 4em;
 
 // Breakpoints.
@@ -1093,6 +1093,10 @@ $size-header-pad: 4em;
 			font-size: 1.35em;
 			line-height: 1.75em;
 			margin: 0;
+
+			> .quote {
+				font-size: .8em;
+			}
 		}
 
 		.image.avatar {
@@ -1365,6 +1369,10 @@ $size-header-pad: 4em;
 					br {
 						display: none;
 					}
+
+					> .quote {
+						font-size: .7em;
+					}
 				}
 
 				> .inner {
@@ -1442,6 +1450,10 @@ $size-header-pad: 4em;
 
 					br {
 						display: inline;
+					}
+
+					> .quote {
+						font-size: 1em;	
 					}
 				}
 			}
@@ -1546,6 +1558,10 @@ $size-header-pad: 4em;
 
 				h1 {
 					font-size: 1.35em;
+
+					.quote {
+						font-size: 1rem;
+					}
 				}
 			}
 
