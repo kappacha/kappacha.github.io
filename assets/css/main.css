@@ -1488,6 +1488,7 @@ header h6 + p {
 }
 
 header.major h2 {
+  color: #000000;
   font-size: 2em;
 }
 
