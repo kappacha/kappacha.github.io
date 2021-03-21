@@ -1,4 +1,4 @@
-# https://kappacha.com
+# https://kappacha.github.io
 
 ## Prerequisite
 
